@@ -23,13 +23,13 @@ HEADER_UNIVERSAL = {
 
 HEADER_TSDM_WORK = {
         'x-requested-with': 'XMLHttpRequest',
-        'referer': 'https://www.tsdm39.net/plugin.php?id=np_cliworkdz:work',
+        'referer': 'https://www.tsdm39.com/plugin.php?id=np_cliworkdz:work',
         'content-type': 'application/x-www-form-urlencoded'
 }
 
 HEADER_TSDM_SIGN = {
     'accept': 'text/html, application/xhtml+xml, image/jxr, */*',
-    'referer': 'https://www.tsdm39.net/home.php?mod=space&do=pm',
+    'referer': 'https://www.tsdm39.com/home.php?mod=space&do=pm',
     'content-type': 'application/x-www-form-urlencoded'
 }
 
@@ -47,17 +47,17 @@ HEADER_EAT_SIGN = {
 
 # ====== URL ========
 
-tsdm_sign_url = 'https://www.tsdm39.net/plugin.php?id=dsu_paulsign:sign'
-sign_url_with_param = 'https://www.tsdm39.net/plugin.php?id=dsu_paulsign:sign&operation=qiandao&infloat=1&sign_as=1&inajax=1'
+tsdm_sign_url = 'https://www.tsdm39.com/plugin.php?id=dsu_paulsign:sign'
+sign_url_with_param = 'https://www.tsdm39.com/plugin.php?id=dsu_paulsign:sign&operation=qiandao&infloat=1&sign_as=1&inajax=1'
 
-work_url = 'https://www.tsdm39.net/plugin.php?id=np_cliworkdz:work'
-login_url = 'https://www.tsdm39.net/member.php?mod=logging&action=login'
+work_url = 'https://www.tsdm39.com/plugin.php?id=np_cliworkdz:work'
+login_url = 'https://www.tsdm39.com/member.php?mod=logging&action=login'
 
 s1_frontpage = "https://bbs.saraba1st.com/2b/forum.php"
 s1_sample_post = "https://bbs.saraba1st.com/2b/thread-2022232-1-1.html"
 
 # cookie_list domain
-tsdm_domain = ".tsdm39.net"
+tsdm_domain = ".tsdm39.com"
 s1_domain = "bbs.saraba1st.com"
 eatasmr_domain = "eatasmr.com"
 
